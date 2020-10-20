@@ -1,4 +1,4 @@
-module github.com/sahlinet/go-tumbo3/helloworld
+module github.com/sahlinet/go-tumbo3-examples/helloworld
 
 go 1.15
 
